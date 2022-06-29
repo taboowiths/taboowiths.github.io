@@ -9,8 +9,9 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: this is what i wanted
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: 안녕!
+# subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: ""
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
