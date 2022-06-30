@@ -2,6 +2,7 @@
 title: Frequently Asked Questions - TheReviewIndex
 description: The first blog post to introduce TheRevie
 header: Frequently Asked Questions 
+date: 2017-11-22 00:06:00+0900
 duration: 5 minutes read
 ---
 

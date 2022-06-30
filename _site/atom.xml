@@ -4,7 +4,7 @@
  <title>TITLETITLE</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-06-30T14:24:06+09:00</updated>
+ <updated>2022-06-30T14:29:29+09:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -37,7 +37,7 @@
    <title>Frequently Asked Questions - TheReviewIndex</title>
    <link href="http://localhost:4000/2017/11/22/frequently-asked-questions.html"/>
    <id>http://localhost:4000/2017/11/22/frequently-asked-questions</id>
-   <updated>2017-11-22T00:00:00+09:00</updated>
+   <updated>2017-11-22T00:06:00+09:00</updated>
    <content type="html">&lt;p&gt;What is TheReviewIndex all about?&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;We thought reading reviews, on sites like Amazon, is a bit too tedious. Most products have hundreds, even thousands of reviews. It’s impossible to make sense of that many reviews, let alone compare across products. So we built &lt;a href=&quot;https://thereviewindex.com&quot;&gt;The Review Index&lt;/a&gt; that uses...</content>
  </entry>
 
