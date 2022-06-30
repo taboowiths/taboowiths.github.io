@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Blog - technology and science at TheReviewIndex</title>
+ <title>Your awesome title</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-12-26T10:17:15-03:00</updated>
+ <updated>2022-06-30T14:14:23+09:00</updated>
  <author>
-   <name>The Review Index</name>
-   <uri>https://thereviewindex.com</uri>
-   <email>root@thereviewindex.com</email>
+   <name></name>
+   <uri></uri>
+   <email></email>
  </author>
 
  
 
  <entry>
-   <title>Help Keep TheReviewIndex Free!</title>
-   <link href="http://localhost:4000/contribute"/>
-   <id>http://localhost:4000/contribute</id>
-   <updated>2017-12-25T00:00:00-03:00</updated>
-   <content type="html">&lt;p&gt;We believe this site should remain independent, unbaised and always free for users. Help keep it this way.&lt;/p&gt;
-
-&lt;p&gt;Coming Soon!&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Have more questions? Send them out to &lt;strong&gt;root@thereviewindex.com&lt;/strong&gt; and we will revert as soon as possible.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</content>
+   <title>Welcome to Jekyll!</title>
+   <link href="http://localhost:4000/jekyll/update/2022/06/30/welcome-to-jekyll.html"/>
+   <id>http://localhost:4000/jekyll/update/2022/06/30/welcome-to-jekyll</id>
+   <updated>2022-06-30T14:13:02+09:00</updated>
+   <content type="html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and...</content>
  </entry>
 
  
 
  <entry>
    <title>Let's science the sh*t out of Toilet Paper Reviews</title>
-   <link href="http://localhost:4000/science-toilet-paper-reviews"/>
-   <id>http://localhost:4000/science-toilet-paper-reviews</id>
-   <updated>2017-11-30T00:00:00-03:00</updated>
+   <link href="http://localhost:4000/2017/11/30/science-toilet-paper-reviews.html"/>
+   <id>http://localhost:4000/2017/11/30/science-toilet-paper-reviews</id>
+   <updated>2017-11-30T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;&lt;img src=&quot;img/tp-header.png&quot; /&gt;&lt;/p&gt; &lt;p&gt;Toilet papers. A trivial household item, but touches us in our everyday lives. Amazon.com lists over 50 brands of Toilet Papers. With over 9000 product listings, how exactly does one pick the right toilet paper - hopefully in a quantified, scientific way?&lt;/p&gt; &lt;p&gt;Let us look at the...</content>
  </entry>
 
@@ -44,9 +35,9 @@
 
  <entry>
    <title>Frequently Asked Questions - TheReviewIndex</title>
-   <link href="http://localhost:4000/frequently-asked-questions"/>
-   <id>http://localhost:4000/frequently-asked-questions</id>
-   <updated>2017-11-22T00:00:00-03:00</updated>
+   <link href="http://localhost:4000/2017/11/22/frequently-asked-questions.html"/>
+   <id>http://localhost:4000/2017/11/22/frequently-asked-questions</id>
+   <updated>2017-11-22T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;What is TheReviewIndex all about?&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;We thought reading reviews, on sites like Amazon, is a bit too tedious. Most products have hundreds, even thousands of reviews. It’s impossible to make sense of that many reviews, let alone compare across products. So we built &lt;a href=&quot;https://thereviewindex.com&quot;&gt;The Review Index&lt;/a&gt; that uses...</content>
  </entry>
 
@@ -54,9 +45,9 @@
 
  <entry>
    <title>Hello World - TheReviewIndex</title>
-   <link href="http://localhost:4000/hello-world"/>
-   <id>http://localhost:4000/hello-world</id>
-   <updated>2017-11-10T00:00:00-03:00</updated>
+   <link href="http://localhost:4000/2017/11/10/hello-world.html"/>
+   <id>http://localhost:4000/2017/11/10/hello-world</id>
+   <updated>2017-11-10T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt; &lt;/p&gt; &lt;p&gt;Hi there.&lt;/p&gt; &lt;p&gt;We are TheReviewIndex.&lt;/p&gt; &lt;p&gt;We thought reading reviews, on sites like Amazon, is a bit too tedious. Most products have hundreds, even thousands of reviews. It’s impossible to make sense of that many reviews, let alone compare across products.&lt;/p&gt; &lt;p&gt;So we built &lt;a href=&quot;https://thereviewindex.com&quot;&gt;The Review Index&lt;/a&gt; that uses...</content>
  </entry>
 
