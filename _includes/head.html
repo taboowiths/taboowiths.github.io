@@ -1,0 +1,55 @@
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{%if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+	<!-- CSS & fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,500" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:type" content: "website">
+  <meta property="og:url" content= "https://thereviewindex.com/blog{{page.url}}">
+  <meta property="og:description" content="{%if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:locale" content= "en_US">
+  <meta property="og:site_name" content="The Review Index">
+  <meta property="og:image" content="https://thereviewindex.com/blog/{%if page.ogimage %}{{ page.ogimage }}{% else %}{{ site.ogimage }}{% endif %}">
+  <meta property="og:image:url" content="https://thereviewindex.com/blog/{%if page.ogimage %}{{ page.ogimage }}{% else %}{{ site.ogimage }}{% endif %}">
+  <meta property="og:image:secure_url" content="https://thereviewindex.com/blog/{%if page.ogimage %}{{ page.ogimage }}{% else %}{{ site.ogimage }}{% endif %}">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="1200">
+  
+  <!-- twitter card -->
+  <meta property="twitter:card" content="summary">
+  <meta property="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="twitter:description" content="{%if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="twitter:url" content= "https://thereviewindex.com/blog{{page.url}}">
+  <meta property="twitter:image" content="https://thereviewindex.com/blog/{%if page.ogimage %}{{ page.ogimage }}{% else %}{{ site.ogimage }}{% endif %}">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+
+  
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-78263144-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <!-- End Google Analytics -->
+
+</head>

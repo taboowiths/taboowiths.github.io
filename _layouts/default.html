@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  <body>
+    
+    <!-- Facebook Comments Script -->
+    <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11&appId=288262758360783';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+  
+    <div id="wrap">
+  	  	
+  	  	<!-- Navigation -->
+  	  	{% include menu.html %}
+      
+      <!-- Icon menu -->
+  	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
+  	  	<div id="menu"></div>
+  	  </a>
+  
+        <!-- Header -->
+        {% if site.custom_header == true %}
+          {% include header-custom.html %}
+        {% else %}
+          {% include header.html %}
+        {% endif %}
+  
+      <!-- Main content -->
+  	  <div id="container">
+  		  
+  		<main>
+  
+  			{{ content }}
+  
+  	  </main>
+  		
+  		  <!-- Pagination links -->
+        {% if paginator.total_pages > 1 %}
+          <div class="pagination">
+            {% if paginator.previous_page == 1 %}
+              <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
+            {% elsif paginator.previous_page%}
+              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
+            {% else %}
+              <span class="page-item">&laquo;</span>
+            {% endif %}
+          
+            {% for page in (1..paginator.total_pages) %}
+              {% if page == paginator.page %}
+                <span class="page-item">{{ page }}</span>
+              {% elsif page == 1 %}
+                <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">{{ page }}</a>
+              {% else %}
+                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-item">{{ page }}</a>
+              {% endif %}
+            {% endfor %}
+          
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
+            {% else %}
+              <span class="page-item">&raquo;</span>
+            {% endif %}
+          </div>
+          {% endif %}
+  
+  	  </div>
+  	    
+  	    <!-- Footer -->
+        <div class="m-t-6e">
+          {% include footer.html %}
+        </div>
+  
+  	    <!-- Script -->
+        {% include script.html %}
+  
+  	</div>
+  </body>
+</html>
