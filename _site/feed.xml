@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2022 13:44:45 +0900</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2022 13:44:45 +0900</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2022 13:49:18 +0900</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2022 13:49:18 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -32,6 +32,29 @@
         <pubDate>Sun, 19 Apr 2015 17:43:59 +0900</pubDate>
         <link>http://localhost:4000/dummy/2015/04/19/dummy6.html</link>
         <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy6.html</guid>
+        
+        <category>lorem</category>
+        
+        <category>ipsum</category>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+      <item>
+        <title>TEST POST</title>
+        <description>&lt;p&gt;TEST POST&lt;/p&gt;
+
+&lt;p&gt;TEST POST
+TEST POST
+TEST POST
+TEST POST
+TEST POST&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2015 17:43:59 +0900</pubDate>
+        <link>http://localhost:4000/dummy/2015/04/19/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/welcome.html</guid>
         
         <category>lorem</category>
         
