@@ -1,0 +1,65 @@
+on:
+  push:
+    branches: [ main ]
+    paths: 
+     - "build"
+name: build gatsby
+permissions: write-all
+jobs:
+  build_gatsby:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: yarn install
+        run: yarn install
+
+      - name: gatsby build
+        env:
+          GH_API_KEY: ${{ secrets.TOKEN }}
+        run: yarn build
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_DIR: ./public
+          
+  publish:
+    name: Publish GitHub Pages
+    runs-on: ubuntu-latest
+    needs: build_gatsby
+    steps:
+      - name: Checkout latest commit of gh-pages
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          submodules: recursive
+      - name: Upload page artifact
+        uses: actions/upload-pages-artifact@v2.0.0
+        with:
+          path: .
+      - name: Upload artifact
+        uses: actions/upload-artifact@main
+        with:
+          name: github-pages
+          path: /home/runner/work/_temp/artifact.tar
+          retention-days: 1
+          overwrite: true
+          
+# Deployment job
+  deploy:
+    environment:
+     name: github-pages
+     url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      pages: write
+      contents: read
+    needs: publish
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
