@@ -3,9 +3,8 @@ title: 프롤로그
 description: 프롤로그 오픈소스를 이용해 깃블로그를 만들어 주셔서 감사합니다.
 category: category1
 tags: [welcome,hello]
-date: 2022-11-08T12:35:11.415Z
+date: 2024-05-18T15:02:37.360Z
 ---
-
 ## 프롤로그 오픈소스를 이용해 깃블로그를 만들어 주셔서 감사합니다.
 
 ![logo](./logo.png)
