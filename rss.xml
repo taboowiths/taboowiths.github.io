@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Gatsby Starter Blog RSS Feed]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Feb 2025 09:16:04 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[자유롭게 작성해보세요]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/about/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/about/</guid><content:encoded>&lt;p&gt;자유롭게 작성해보세요&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[자유롭게 작성해보세요]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/contact/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/contact/</guid><content:encoded>&lt;p&gt;자유롭게 작성해보세요
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bbc5de106af69f58193515f109ebcb15/0b533/%EA%B8%B0%EC%81%A8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAADRklEQVQ4y2WVS2wNYRTHpy42RNgIlhZsWEmwsmHLQmKhEkolYkHQqIS0qgj1ike590wbsWBBNCESEUQubbQpqtGKPkLFnXumvSLEI6k7M+cv32PuDG5yMnO/73y/c77zGgdMjrCrBUxVYMoI01RMtDkwawvAtBpMSzCu/zvmDNl3dwqKVFm3h7TiFHCyYdeawPQT7AJMSh4L0wowLQbTSmGar3VLbU4M/Rc2C0ybwXQKTHc0xHcBn0L9NOAITKE18ANM+xRDfLdKQTXMur8KTIWUNxB10FcAvSYVsBFrROtusGHIxPGYJUyesAvxqQyfAgUTBVFrGuaKGCPp97I11gePMvCMh0qqE4XkEMZdiYr62hqgPZpos/uk1iL4Wv+zMM3TV7bXPa28g+8GMSzwsigXssCXqwi9HFBq18BfH1qBceO1FeXhpDAtrSRFmOq0h8VsGH26IPh0Dl8HT+Da+Rr0PWoAfl3H99GLuHyiGm+eNAKlNkgxB+t1aKEvUKTpDnxdbw1SzELGToXhQJ2gfyfeP6hF5+1dGMwfRmmgBUOdTeh7eAiv7+9BMNysdCGFS5KGCtMm5d0ysBuJdwXRcKME3ZtQzq9D2FsDlFqQv9uMfL4THTfb8fPdcWCkHkHPZoSvdiAaOSLiXRawTqICnlHAcyaTuXI0egxBb40Enevxu2cbUGhB9/0mPHvWhXsdOXzrP4To5XaU82sRdG2Q6O0BkUKrqs8YuFsBXRMDNxCvVZTVcHC/sg7xWgE/h5GuJnwbOgt4FxD070bwvBrhi1qJRo+qWEYqWWISs1BleKuNgy2ZnEgxK8KVoOtMY6IdOs4fzyIabZbow0l7XTey3u1VFeNIkWaAaUx8W4emC0wdmjWoWqzAE5FUhhvEtl9cNsvBNG4txRmrFHP6mdrThW2BS1Kt58aDYQ6Yuk2BU2y50nqmDRNDsWEwDQvrW/41baaJsbAFpp8nxUwV1VpBfE1RPW7FxFz3cb25pZuB7zrJ/DMzLQOmp+BUrJKRNWne00IdooZCPGAVUJLpW2Xhs8F0RSUKTCUwPQfTGjAtAtNBMN0Sphtg2qgASJ3VWVa/ZJzbDaM4E0xzted/TfHK58IBOv6D/QHO4NVvgCPGxQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;기쁨.png&quot;
+        title=&quot;기쁨.png&quot;
+        src=&quot;/static/bbc5de106af69f58193515f109ebcb15/0b533/%EA%B8%B0%EC%81%A8.png&quot;
+        srcset=&quot;/static/bbc5de106af69f58193515f109ebcb15/c26ae/%EA%B8%B0%EC%81%A8.png 158w,
+/static/bbc5de106af69f58193515f109ebcb15/6bdcf/%EA%B8%B0%EC%81%A8.png 315w,
+/static/bbc5de106af69f58193515f109ebcb15/0b533/%EA%B8%B0%EC%81%A8.png 500w&quot;
+        sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[마크다운 기본 사용법]]></title><description><![CDATA[마크다운 기본 사용법입니다. 제목 1 제목 2 제목 1 제목 2 제목 3 제목 4 제목 5 제목 6 제목 1 제목 2 제목 3 제목 4 제목 5 제목…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/blog/1668304655157/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/blog/1668304655157/</guid><pubDate>Sun, 13 Nov 2022 10:57:35 GMT</pubDate><content:encoded>&lt;h2&gt;마크다운 기본 사용법입니다.&lt;/h2&gt;
+&lt;h1&gt;제목 1&lt;/h1&gt;
+&lt;h2&gt;제목 2&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;제목 1
+========
+
+제목 2
+--------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;제목 1&lt;/h1&gt;
+&lt;h2&gt;제목 2&lt;/h2&gt;
+&lt;h3&gt;제목 3&lt;/h3&gt;
+&lt;h4&gt;제목 4&lt;/h4&gt;
+&lt;h5&gt;제목 5&lt;/h5&gt;
+&lt;h6&gt;제목 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
+###### H제목 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;제목 1&lt;/h1&gt;
+&lt;h2&gt;제목 2&lt;/h2&gt;
+&lt;h3&gt;제목 3&lt;/h3&gt;
+&lt;h4&gt;제목 4&lt;/h4&gt;
+&lt;h5&gt;제목 5&lt;/h5&gt;
+&lt;h6&gt;제목 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;인용문입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; 인용문입니다. &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;제목&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;첫번 째 줄입니다.&lt;/li&gt;
+&lt;li&gt;두번 째 줄입니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; ## 제목
+&gt; 1. 첫번 째 줄입니다.
+&gt; 2. 두번 째 줄입니다.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;빨강&lt;/li&gt;
+&lt;li&gt;초록&lt;/li&gt;
+&lt;li&gt;파랑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;빨강&lt;/li&gt;
+&lt;li&gt;초록&lt;/li&gt;
+&lt;li&gt;파랑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; 빨강
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; 초록
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; 파랑
+
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; 빨강
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; 초록
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; 파랑&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;인라인 코드 작성&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;볼드&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`인라인 코드 작성`&lt;/span&gt; 
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;볼드&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;자동으로&lt;/li&gt;
+&lt;li&gt;순서를&lt;/li&gt;
+&lt;li&gt;부여합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; 자동으로
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; 순서를
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; 부여합니다.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;문단:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;코드&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;!-- --&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;문단:
+
+    코드&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이건 &lt;a href=&quot;http://example.com&quot; title=&quot;예시&quot;&gt;예시&lt;/a&gt; 링크.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;이 링크는&lt;/a&gt; 예시 링크.&lt;/p&gt;
+&lt;p&gt;이 &lt;a href=&quot;http://example.com&quot; title=&quot;선택적 제목&quot;&gt;링크&lt;/a&gt; 예시 링크.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;이건 [예시](http://example.com &quot;예시&quot;) 링크.
+
+[이 링크는](http://example.com) 예시 링크.
+
+이 [링크] [id] 예시 링크.
+
+[id]: http://example.com &quot;선택적 제목&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;이탤릭체&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;이탤릭체&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;두껍게&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;두껍게&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*이탤릭체*
+
+_이탤릭체_
+
+**두껍게**
+
+__두껍게__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이 문단은 코드를 가질 수 있다. &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;이 문단은 코드를 가질 수 있다. `code`.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://via.placeholder.com/200x50&quot; alt=&quot;제목&quot; title=&quot;이미지 타이틀&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![제목](https://via.placeholder.com/200x50 &quot;이미지 타이틀&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[프롤로그]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/blog/1667910911415/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/blog/1667910911415/</guid><pubDate>Tue, 08 Nov 2022 12:35:11 GMT</pubDate><content:encoded>&lt;h2&gt;프롤로그 오픈소스를 이용해 깃블로그를 만들어 주셔서 감사합니다.&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6253ad1d0799a68239415d61f23de0ea/29114/logo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.12658227848101%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAABkElEQVQoz32TPW7bQBSEdRBXuYfv4UvkFqmT3oWRJieIawcIYjduBBiI/oAAoixRpCRSJLM/5P58AUlJjiRaCwy4IPcNZ9687cUKzuGJZPv8H5FsIYCv98/8fAnIHCyFP9T2DiSyfRlJ30FEg1C4huzLtx9cXX/k92tKYt4hbBTVCnb7Gku5+4H0rIUl9/DQn9L7cMOn23tKYPHX7kScKlQtWVOsPKn2FKVDW4/zHu899XoZjPl8951ZVrEuOSI7Udh+WApHLjXeWawxSCFIkoTVes2fyYA4GFA4WOm3mk6Fe2u1yjBTOOeI4pjRaMRsNiMIAp4efxHGqyOSfVAdlt8O1X0RpSFczMmyrLEaRRFpmrZ7YQ/tuWh5n3AdRiINWin6/T7T6bRRqpSirKojwtOR653N4M72RlqMMQyGQ8aTCUVRUGpNLstmfE57d8Fyq3CrHdYaDqtO2TtyVbHsCONiD+uCrTJ4a9BaI5Ui2eZESUa4le/2r5NwfyjMS8JNxuumINgI5nnForDH6XZc239TZpOu56PEugAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;logo&quot;
+        title=&quot;logo&quot;
+        src=&quot;/static/6253ad1d0799a68239415d61f23de0ea/f058b/logo.png&quot;
+        srcset=&quot;/static/6253ad1d0799a68239415d61f23de0ea/c26ae/logo.png 158w,
+/static/6253ad1d0799a68239415d61f23de0ea/6bdcf/logo.png 315w,
+/static/6253ad1d0799a68239415d61f23de0ea/f058b/logo.png 630w,
+/static/6253ad1d0799a68239415d61f23de0ea/40601/logo.png 945w,
+/static/6253ad1d0799a68239415d61f23de0ea/78612/logo.png 1260w,
+/static/6253ad1d0799a68239415d61f23de0ea/29114/logo.png 1920w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;사용자분들의 서비스 사용 이해도를 높이기 위하여 기본 게시글 두 개가 제공됩니다.
+하나는 마크다운 언어에 대한 문서로, 해당 게시글을 참조하여 게시글을 작성할 수 있습니다.
+나머지 하나는 현재 보고 계시는 게시물로, 해당 게시글을 자유롭게 수정하거나 삭제할 수 있습니다.
+다시 한번 여러분의 서비스 이용에 감사 인사를 드리며, 프롤로그의 모든 사용자와 기여자들을 환영합니다.&lt;/p&gt;</content:encoded></item></channel></rss>
