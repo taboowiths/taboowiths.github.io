@@ -31,23 +31,23 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <div className="display-row">
+<div className='display-row'>
         <Logo />
         <Header />
       </div>
-      <div className="display-row">
-        <div className="display-grid-l">
-          <div className="display-column">
-            <Profile />
-            <Category />
-          </div>
-          <div className="display-column">
+      <div className='display-row'>
+        <div className='display-grid-r'>
+          <div className='display-column'>
             <Title />
             <Contents />
           </div>
+          <div className='display-column'>
+            <Profile />
+            <Category />
+          </div>
         </div>
       </div>
-    </Layout>
+</Layout>
   )
 }
 
